@@ -15,7 +15,7 @@
 Dove is a **desktop game launcher and storefront** positioned as an alternative to Steam for indie developers — built around fairer economics and a developer-first experience.
 
 - 💸 **Competitive revenue share** — meaningfully lower than Steam's effective 30% for indie-scale developers
-- 🏆 **Free-entry tournaments** with real prize payouts
+- 🏆 **Free-entry tournaments/Game Jams** with real prize payouts
 - ☁️ Cloud saves, social/friends features, and admin/moderation tooling
 - 🧑‍💻 Built solo, cost-consciously, from the ground up — currently pre-launch, pre-revenue
 
