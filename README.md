@@ -58,7 +58,7 @@ Dove is a **desktop game launcher and storefront** positioned as an alternative 
 
 ### 📫 Get in touch
 
-- 🌐 Schwebachelias@gmail.com
+- 🌐 info@dovexc.com
 - 📍 Germany
 
 <div align="center">
